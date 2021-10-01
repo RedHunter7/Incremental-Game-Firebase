@@ -91,6 +91,7 @@ public static class UserDataManager
         
         if (uploadToCloud)
 		{
+			AnalyticsManager.SetUserProperties ("gold", Progress.Gold.ToString ());
 			byte[] data = Encoding.Default.GetBytes (json);
 			StorageReference targetStorage = GetTargetCloudStorage ();
 			targetStorage.PutBytesAsync (data);
