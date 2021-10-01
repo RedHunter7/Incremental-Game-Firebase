@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161377410798",
+    "project_id": "incremental-game-39743",
+    "storage_bucket": "incremental-game-39743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161377410798:android:f876e55379a347e3dd1dff",
+        "android_client_info": {
+          "package_name": "com.redhunter7.incrementalgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161377410798-nikb8cnfa3ih5mtj6pj8mv2ppp0j734i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUfi09f_wSd9Mdp-sMS2IkFagFhjiXIqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161377410798-nikb8cnfa3ih5mtj6pj8mv2ppp0j734i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
